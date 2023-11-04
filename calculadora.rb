@@ -1,5 +1,5 @@
 loop do
-  puts ""
+  puts "\n"
   puts "Selecione a operação:"
   puts "1 - Soma"
   puts "2 - Subtração"
